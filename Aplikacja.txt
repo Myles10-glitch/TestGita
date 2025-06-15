@@ -5,3 +5,11 @@ system.out.println("Podaj hasło");
 system.out.println("Kliknij na przycisk zaloguj");
 
 }
+
+public void logowaniegoogle() {
+
+system.out.println("Podaj email google");
+system.out.println("Podaj hasło");
+system.out.println("Kliknij na przycisk zaloguj");
+
+}
