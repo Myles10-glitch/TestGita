@@ -6,9 +6,18 @@ system.out.println("Kliknij na przycisk zaloguj");
 
 }
 
+
 public void logowaniegoogle() {
 
 system.out.println("Podaj email google");
+system.out.println("Podaj hasło");
+system.out.println("Kliknij na przycisk zaloguj");
+
+}
+
+public void logowanieMicrosoft() {
+
+system.out.println("Podaj nazwę użytkownika Microsoft");
 system.out.println("Podaj hasło");
 system.out.println("Kliknij na przycisk zaloguj");
 
