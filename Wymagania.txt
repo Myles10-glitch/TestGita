@@ -1,3 +1,11 @@
 Logowanie do aplikacji:
 - Użytkownik to adres email w poprawnym formacie
 - Hasło musi wygasać co 30 dni
+
+Logowanie do aplikacji google:
+- Użytkownik to adres email w poprawnym formacie
+- Hasło musi wygasać co 30 dni
+
+Logowanie do aplikacji Microsoft:
+- Użytkownik to adres email w poprawnym formacie
+- Hasło musi wygasać co 30 dni
